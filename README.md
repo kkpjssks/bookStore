@@ -1,4 +1,4 @@
-# bookStore
+# Book Store
 I created a simple spring boot application to demonstrate a book store.
 
 # Downloading
